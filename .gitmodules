@@ -1,0 +1,3 @@
+[submodule "farmer-registration"]
+	path = farmer-registration
+	url = https://github.com/karthi4310/SpringBoot-Application.git
